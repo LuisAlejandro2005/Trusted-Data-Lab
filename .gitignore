@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Datos generados por el pipeline (se reproducen con `python src/pipeline.py`)
+data/
+
+# Notas locales
+Contexto*.txt
+EntregableHoy.txt
+
+# Editores / SO
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
